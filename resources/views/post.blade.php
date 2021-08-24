@@ -28,7 +28,7 @@
     <!-- blog body -->
     <div class="blog_body">
         <!-- starting image -->
-        <img src="{{ asset('images/blog-design.png') }}" alt="" class="blog_images large_image">
+        <img src="{{ asset('images/google-mentor-case-study.png') }}" alt="" class="blog_images large_image">
 
         <!-- paragraphs and images -->
         <p class="blog_content_text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate, laboriosam delectus. Exercitationem vel, deleniti tempore cumque modi vero. Atque dignissimos ducimus nostrum suscipit doloribus nobis quam quo in doloremque autem molestias sed perspiciatis dolores, praesentium totam cum. Maiores fugit nam dolor voluptate. Aliquam, quo. Perspiciatis quasi voluptatibus ipsum dolore nesciunt maiores repellendus deleniti asperiores quae molestias sequi magni cupiditate impedit inventore voluptas, excepturi placeat vitae vel quos. Ad natus necessitatibus, quas ullam et mollitia quisquam eligendi, alias placeat officiis, nostrum quasi sed molestias sunt veritatis! Culpa ratione facilis tenetur eum modi a doloremque libero odit reprehenderit porro unde, blanditiis consectetur facere quam natus repudiandae veniam ducimus repellat hic commodi optio excepturi. Labore ab alias blanditiis nulla enim debitis impedit id error voluptatem voluptates sed exercitationem ipsum, tempora totam! Ducimus nam accusamus reprehenderit quaerat doloremque fugit enim quis fugiat rem pariatur illum accusantium doloribus quas quisquam quod aperiam, ex, ratione consectetur!</p>

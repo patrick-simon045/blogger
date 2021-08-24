@@ -194,8 +194,8 @@
     }
 
     .large_image {
-        width: 98vw;
-        margin-left: -19vw;
+        width: 80vw;
+        margin-left: -10vw;
         margin-top: 40px;
         margin-bottom: 40px;
     }
