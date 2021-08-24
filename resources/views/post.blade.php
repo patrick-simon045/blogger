@@ -2,11 +2,6 @@
 
 @section('blog_contents')
 <div class="contents">
-    <!-- heading -->
-    <div class="heading">Lorem ipsum dolor sit amet consectetur.</div>
-
-    <!-- sub-head -->
-    <div class="sub_heading">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repudiandae magni ea aliquam consequatur incidunt vel, quidem illo necessitatibus distinctio in.</div>
 
     <!-- blogger details -->
     <div class="blogger_details">
@@ -18,12 +13,18 @@
                 </div>
                 <div class="horizontal_arrangement">
                     <div>May 10/21</div>
-                    <div class="read_time">6 min read</div>
+                    <div class="read_time">: 6 min read</div>
                 </div>
             </div>
         </div>
         <div class="writer_details_links">Links</div>
     </div>
+
+    <!-- heading -->
+    <div class="heading">Lorem ipsum dolor sit amet consectetur.</div>
+
+    <!-- sub-head -->
+    <div class="sub_heading">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Repudiandae magni ea aliquam consequatur incidunt vel, quidem illo necessitatibus distinctio in.</div>
 
     <!-- blog body -->
     <div class="blog_body">

@@ -171,8 +171,8 @@
 
     .blogger_details {
         border-radius: 15px;
-        margin-top: 20px;
-        padding: 20px;
+        margin: 40px 0;
+        padding: 10px 20px;
         display: flex;
         flex-direction: row;
         justify-content: space-between;
