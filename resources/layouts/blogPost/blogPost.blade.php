@@ -129,6 +129,10 @@
         font-size: 12px;
     }
 
+    .publish_button:hover {
+        cursor: pointer;
+    }
+
     .contents {
         width: 60vw;
         margin: 0 auto;
@@ -150,7 +154,7 @@
     }
 
     .writer_details {
-        margin-top: 20px;
+        /* margin-top: 20px; */
         display: flex;
         flex-direction: row;
         justify-content: center;
@@ -166,10 +170,15 @@
     }
 
     .blogger_details {
+        border-radius: 15px;
+        margin-top: 20px;
+        padding: 20px;
         display: flex;
         flex-direction: row;
         justify-content: space-between;
         align-items: center;
+        background-color: white;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     }
 
     .blog_images {

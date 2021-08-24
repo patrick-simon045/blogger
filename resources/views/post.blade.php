@@ -13,7 +13,9 @@
         <div class="writer_details">
             <div class="profile_image bordered"></div>
             <div class="vertical_arrangement writer_details_post_details">
-                <div class="profile_name no_left_padding">Name</div>
+                <div class="profile_name no_left_padding">
+                    FC <span class="bold_part">Barca</span>
+                </div>
                 <div class="horizontal_arrangement">
                     <div>May 10/21</div>
                     <div class="read_time">6 min read</div>
