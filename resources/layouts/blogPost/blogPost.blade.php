@@ -11,7 +11,7 @@
 
 <style>
     ::-webkit-scrollbar {
-        width: 10px;
+        width: 8px;
     }
 
     /* Track */
@@ -49,7 +49,26 @@
         width: 100%;
         margin-top: 20px;
         position: relative;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
         background-color: #222222;
+        color: white;
+    }
+
+    .horizontal_arrangement_footer_contents {
+        width: 70vw;
+        position: relative;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-evenly;
+        align-items: flex-start;
+    }
+
+    .vertical_footer_list_items {
+        color: whitesmoke;
+        font-weight: 100;
     }
 
     .horizontal_arrangement {
@@ -226,7 +245,49 @@
     @yield('blog_contents')
 
     <!-- footer -->
-    <section class="footer"></section>
+    <section class="footer">
+        <div class="horizontal_arrangement_footer_contents">
+            <div>
+                <h4>Product</h4>
+
+                <div>
+                    <h5 class="vertical_footer_list_items">Support</h5>
+                    <h5 class="vertical_footer_list_items">Company</h5>
+                    <h5 class="vertical_footer_list_items">Community</h5>
+                </div>
+            </div>
+
+            <div>
+                <h4>Support</h4>
+
+                <div>
+                    <h5 class="vertical_footer_list_items">Support</h5>
+                    <h5 class="vertical_footer_list_items">Company</h5>
+                    <h5 class="vertical_footer_list_items">Company</h5>
+                    <h5 class="vertical_footer_list_items">Community</h5>
+                </div>
+            </div>
+
+            <div>
+                <h4>Company</h4>
+
+                <div>
+                    <h5 class="vertical_footer_list_items">Support</h5>
+                    <h5 class="vertical_footer_list_items">Company</h5>
+                </div>
+            </div>
+
+            <div>
+                <h4>Community</h4>
+
+                <div>
+                    <h5 class="vertical_footer_list_items">Company</h5>
+                    <h5 class="vertical_footer_list_items">Company</h5>
+                    <h5 class="vertical_footer_list_items">Community</h5>
+                </div>
+            </div>
+        </div>
+    </section>
 </body>
 
 </html>
