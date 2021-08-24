@@ -41,19 +41,19 @@
 
             <img src="{{ asset('images/google-map-redesign.jpg') }}" alt="" class="blog_images small_image">
 
-            <p class="blog_content_text blog_content_text_left_margin">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto quis nobis tenetur, quia sapiente est repellat minima fugit impedit ad accusamus ipsa in dignissimos animi, rerum cumque! Corrupti laborum hic omnis odit, mollitia expedita harum temporibus consectetur, esse cumque eos maiores molestias qui illum modi at non vero neque quae cupiditate dolor. Nihil voluptate laudantium corrupti placeat, odio, sint accusamus obcaecati minus, debitis reprehenderit commodi at autem! Rem, ea repellendus nam quasi ullam, mollitia, quia doloremque itaque magni veniam consectetur? Minima quos, nostrum consequuntur quibusdam maiores dolor eius illum modi?</p>
+            <p class="blog_content_text blog_content_text_left_margin">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto quis nobis tenetur, quia sapiente est repellat minima fugit impedit ad accusamus ipsa in dignissimos animi, rerum cumque! Corrupti laborum hic omnis odit, mollitia expedita harum temporibus consectetur, esse cumque eos maiores molestias qui illum modi.</p>
         </div>
 
-        <p class="blog_content_text blog_content_text_left_margin">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias reprehenderit assumenda illo quae, possimus vel commodi ullam quibusdam iure quasi expedita fuga quo consequatur quis, officia nam rem, adipisci ipsum minima vitae enim quia voluptatibus earum saepe! Eaque optio reprehenderit deleniti. Officiis facilis vero quas adipisci, voluptatum ipsam quasi commodi.</p>
+        <p class="blog_content_text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias reprehenderit assumenda illo quae, possimus vel commodi ullam quibusdam iure quasi expedita fuga quo consequatur quis, officia nam rem, adipisci ipsum minima vitae enim quia voluptatibus earum saepe! Eaque optio reprehenderit deleniti. Officiis facilis vero quas adipisci, voluptatum ipsam quasi commodi.</p>
 
         <div class="image_with_text_on_side">
 
-            <p class="blog_content_text blog_content_text_left_margin">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto quis nobis tenetur, quia sapiente est repellat minima fugit impedit ad accusamus ipsa in dignissimos animi, rerum cumque! Corrupti laborum hic omnis odit, mollitia expedita harum temporibus consectetur, esse cumque eos maiores molestias qui illum modi at non vero neque quae cupiditate dolor. Nihil voluptate laudantium corrupti placeat, odio, sint accusamus obcaecati minus, debitis reprehenderit commodi at autem! Rem, ea repellendus nam quasi ullam, mollitia, quia doloremque itaque magni veniam consectetur? Minima quos, nostrum consequuntur quibusdam maiores dolor eius illum modi?</p>
+            <p class="blog_content_text blog_content_text_right_margin">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Architecto quis nobis tenetur, quia sapiente est repellat minima fugit impedit ad accusamus ipsa in dignissimos animi, rerum cumque! Corrupti laborum hic omnis odit, mollitia expedita harum temporibus consectetur, esse cumque eos maiores molestias qui illum modi at non vero neque quae cupiditate dolor. Nihil voluptate laudantium corrupti placeat, odio, sint accusamus.</p>
 
             <img src="{{ asset('images/mentor-app-design-2.jpg') }}" alt="" class="blog_images small_image">
         </div>
 
-        <p class="blog_content_text blog_content_text_left_margin">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias reprehenderit assumenda illo quae, possimus vel commodi ullam quibusdam iure quasi expedita fuga quo consequatur quis, officia nam rem, adipisci ipsum minima vitae enim quia voluptatibus earum saepe! Eaque optio reprehenderit deleniti. Officiis facilis vero quas adipisci, voluptatum ipsam quasi commodi.</p>
+        <p class="blog_content_text">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Alias reprehenderit assumenda illo quae, possimus vel commodi ullam quibusdam iure quasi expedita fuga quo consequatur quis, officia nam rem, adipisci ipsum minima vitae enim quia voluptatibus earum saepe! Eaque optio reprehenderit deleniti. Officiis facilis vero quas adipisci, voluptatum ipsam quasi commodi.</p>
     </div>
 </div>
 @endsection
